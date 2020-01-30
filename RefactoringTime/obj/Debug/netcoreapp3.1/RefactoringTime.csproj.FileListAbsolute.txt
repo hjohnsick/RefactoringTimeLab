@@ -1,0 +1,11 @@
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.1\RefactoringTime.csprojAssemblyReference.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.1\RefactoringTime.AssemblyInfoInputs.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.1\RefactoringTime.AssemblyInfo.cs
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.1\RefactoringTime.exe
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.1\RefactoringTime.deps.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.1\RefactoringTime.runtimeconfig.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.1\RefactoringTime.runtimeconfig.dev.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.1\RefactoringTime.dll
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.1\RefactoringTime.pdb
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.1\RefactoringTime.dll
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.1\RefactoringTime.pdb
